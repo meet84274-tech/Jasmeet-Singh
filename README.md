@@ -10,7 +10,7 @@
 
   <p>
     I’m a tech enthusiast who enjoys working with data, AI, and real-world problem solving.
-    I like building practical solutions and continuously improving my skills across different domains.
+    I focus on building practical solutions while continuously learning and evolving.
   </p>
 
   <hr>
@@ -28,31 +28,28 @@
 
   <hr>
 
-  <h2>🎯 Quick Interaction</h2>
-  <button onclick="showMessage()">Click Me</button>
-  <p id="msg"></p>
-
-  <script>
-    function showMessage() {
-      document.getElementById("msg").innerText =
-        "I enjoy creating things that combine logic, creativity, and technology.";
-    }
-  </script>
+  <h2>✍️ Content Writing</h2>
+  <ul>
+    <li>Ability to explain technical concepts in simple language</li>
+    <li>Creating structured and engaging written content</li>
+    <li>Combining creativity with technical knowledge</li>
+    <li>Writing for clarity, impact, and readability</li>
+  </ul>
 
   <hr>
 
   <h2>📌 Highlights</h2>
   <ul>
     <li>Interest in AI and data-driven solutions</li>
-    <li>Strong focus on continuous learning</li>
-    <li>Experience with computer vision concepts</li>
-    <li>Analytical and problem-solving mindset</li>
+    <li>Strong analytical and problem-solving mindset</li>
+    <li>Continuous learner with curiosity for new technologies</li>
+    <li>Focus on practical and real-world applications</li>
   </ul>
 
   <hr>
 
   <h2>📫 Connect With Me</h2>
-  <p>GitHub: <a href="https://github.com/meet84274-tech" target="_blank">meet84274-tech</a></p>
+  <p>GitHub: <a href="https://github.com/meet84274-tech">meet84274-tech</a></p>
   <p>Email: meet84274@gmail.com</p>
 
   <hr>
