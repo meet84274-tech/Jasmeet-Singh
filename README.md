@@ -28,11 +28,6 @@
 
   <hr>
 
-  <h2>📊 Current Focus</h2>
-  <p>Emotion-Based Content Recommendation System</p>
-
-  <hr>
-
   <h2>🎯 Quick Interaction</h2>
   <button onclick="showMessage()">Click Me</button>
   <p id="msg"></p>
