@@ -9,8 +9,8 @@
   <h1>Hi, I'm Jasmeet 👋</h1>
 
   <p>
-    I’m a tech enthusiast focused on building real-world solutions using AI and data.
-    I enjoy combining creativity with logic to create impactful projects.
+    I’m a tech enthusiast who enjoys working with data, AI, and real-world problem solving.
+    I like building practical solutions and continuously improving my skills across different domains.
   </p>
 
   <hr>
@@ -35,7 +35,7 @@
   <script>
     function showMessage() {
       document.getElementById("msg").innerText =
-        "I enjoy building AI projects that actually solve real problems 🚀";
+        "I enjoy creating things that combine logic, creativity, and technology.";
     }
   </script>
 
@@ -43,21 +43,21 @@
 
   <h2>📌 Highlights</h2>
   <ul>
-    <li>Building AI-based applications</li>
-    <li>Exploring computer vision and emotion detection</li>
-    <li>Working with data visualization tools</li>
-    <li>Improving problem-solving skills daily</li>
+    <li>Interest in AI and data-driven solutions</li>
+    <li>Strong focus on continuous learning</li>
+    <li>Experience with computer vision concepts</li>
+    <li>Analytical and problem-solving mindset</li>
   </ul>
 
   <hr>
 
   <h2>📫 Connect With Me</h2>
-  <p>GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></p>
-  <p>Email: your-email@example.com</p>
+  <p>GitHub: <a href="https://github.com/meet84274-tech" target="_blank">meet84274-tech</a></p>
+  <p>Email: meet84274@gmail.com</p>
 
   <hr>
 
-  <p><b>“Turning ideas into intelligent solutions.”</b></p>
+  <p><b>"Turning ideas into intelligent solutions."</b></p>
 
 </body>
 </html>
